@@ -3,7 +3,7 @@ Hardware for Bruce Firmware, https://github.com/pr3y/Bruce/
 
 Hardware Specifications:
 - ESP32-S3-N16R8 (MCU)
-- ST7789 TFT Display
+- ST7789 (TFT LCD Display)
 - CC1101 (433MHz)
 - SX1278 (433 MHz)
 - NRF24L01 (2.4 GHz)
