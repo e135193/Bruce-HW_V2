@@ -17,6 +17,7 @@ Hardware Specifications:
 - DS1820 (Temperature Sensor)
 - MPU6050 (6DOF IMU)
 - RDA5807M (FM Receiver)
+- CH340 (Serial to USB)
 - IR LED
 - IR Receiver Module
 - 2 User Buttons
